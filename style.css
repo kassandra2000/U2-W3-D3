@@ -1,0 +1,7 @@
+img{
+    height: 300px;
+    object-fit: fill;
+}
+.container{
+    max-width: 1000px;
+}
